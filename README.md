@@ -17,5 +17,5 @@
 ## ⚡ Installation and use  
 ### 1️⃣ Cloning the repo  
 ```bash
-git clone https://github.com/TON_UTILISATEUR/Audit-Smart-Contracts.git
+git clone https://github.com/Jr193/Audit-Smart-Contracts.git
 cd Audit-Smart-Contracts
